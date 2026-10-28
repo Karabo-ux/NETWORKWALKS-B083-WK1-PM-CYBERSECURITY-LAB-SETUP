@@ -10,3 +10,4 @@
 5. Configured the Kali Linux IP settings** to establish network connectivity within the virtual environment.
 6. Created a virtual machine snapshot** to preserve the configured state and provide a recovery point for future practical exercises.
 
+<img width="1521" height="722" alt="Screenshot 2026-10-28 105805" src="https://github.com/user-attachments/assets/0fe5acf6-30eb-4170-baae-a718036e904e" />
